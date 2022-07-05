@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class RandomGreetingController < ApplicationController
   def index
     greeting = Greeting.all.sample
