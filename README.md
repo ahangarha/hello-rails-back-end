@@ -1,6 +1,8 @@
 # Hello Rails - Back-end
 
-This is an educational project to create an API only backend app with Rails
+This is an educational project to create an API only backend app with Rails.
+
+For the front-end part of the project you may visit [Hello React / front-end](https://github.com/ahangarha/hello-react-front-end/)
 
 ## Built with
 
