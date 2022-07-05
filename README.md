@@ -20,6 +20,7 @@ For the front-end part of the project you may visit [Hello React / front-end](ht
 - Clone the Repository
 - Run `bundle install`
 - Run `rails db:create; rails db:migrate` to create and populate the database with sample data.
+- Optionally run `rails db:seed` to populate the database with 5 sample greeting.
 
 ### Usage
 
